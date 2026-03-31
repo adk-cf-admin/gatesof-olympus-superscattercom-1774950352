@@ -1,0 +1,19 @@
+{
+  "name": "Gates of Olympus Super Scatter",
+  "short_name": "Gates of Olympus Super Scatter",
+  "theme_color": "",
+  "background_color": "#1f0c36",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1774949449-1645474-gates-of-olympus-super-scatter-game-logo-900x900-70500821.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

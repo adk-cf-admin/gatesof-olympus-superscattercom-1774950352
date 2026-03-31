@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://gatesof-olympus-superscatter.com/
+Sitemap: https://gatesof-olympus-superscatter.com/sitemap.xml
